@@ -50,5 +50,5 @@
 | 47  | [Testimonial Box Switcher](https://github.com/idankfir/50Projects-50Days/tree/master/Testimonial%20Box%20Switcher)         |
 | 48  | [Random Image Feed](https://github.com/idankfir/50Projects-50Days/tree/master/Random%20Image%20Generator)                  |
 | 49  | [Todo List](https://github.com/idankfir/50Projects-50Days/tree/master/Todo%20List)                                       |
-| 50  | [Insect Catch Game](https://github.com/idankfir/50Projects-50Days/tree/master/Insect%20Catch%20Game)                       |
+| 50  | [Insect Catch Game](https://github.com/IdanKfir/50Projects-50Days/tree/main/Catch%20The%20Insect)                       |
 
