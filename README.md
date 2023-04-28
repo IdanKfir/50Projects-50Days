@@ -51,3 +51,7 @@
 | 48  | [Random Image Feed](https://github.com/idankfir/50projects50days/tree/master/random image generator)                  |
 | 49  | [Todo List](https://github.com/idankfir/50projects50days/tree/master/todo list)                                       |
 | 50  | [Insect Catch Game](https://github.com/idankfir/50projects50days/tree/master/insect catch game)                       |
+
+
+| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             |
+
