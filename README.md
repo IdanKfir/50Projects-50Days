@@ -4,7 +4,7 @@
 | 01  | [Expanding Cards](https://github.com/IdanKfir/50Projects-50Days/tree/main/Expanding%20Cards)                           |
 | 02  | [Progress Steps](https://github.com/IdanKfir/50Projects-50Days/tree/main/Progress%20Steps)                             |
 | 03  | [Rotating Navigation Animation](https://github.com/idankfir/50Projects-50Days/tree/master/Rotating%20Nav%20Animation)      |
-| 04  | [Hidden Search Widget](https://github.com/idankfir/50Projects-50Days/tree/master/Hidden%20Search)                        |
+| 04  | [Hidden Search Widget](https://github.com/idankfir/50Projects-50Days/tree/master/Hidden%20Search%20Widget)                        |
 | 05  | [Blurry Loading](https://github.com/idankfir/50Projects-50Days/tree/master/Blurry%20Loading)                             |
 | 06  | [Scroll Animation](https://github.com/idankfir/50Projects-50Days/tree/master/Scroll%20Animation)                         |
 | 07  | [Split Landing Page](https://github.com/idankfir/50Projects-50Days/tree/master/Split%20Landing%20Page)                     |
