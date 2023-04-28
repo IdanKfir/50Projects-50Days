@@ -1,8 +1,8 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/idankfir/50projects50days/tree/master/expanding%20cards)                           |
-| 02  | [Progress Steps](https://github.com/idankfir/50projects50days/tree/master/progress steps)                             |
+| 01  | [Expanding Cards](https://github.com/IdanKfir/50Projects-50Days/tree/main/Expanding%20Cards)                           |
+| 02  | [Progress Steps](https://github.com/idankfir/50projects50days/tree/master/Progress%20Steps)                             |
 | 03  | [Rotating Navigation Animation](https://github.com/idankfir/50projects50days/tree/master/rotating nav animation)      |
 | 04  | [Hidden Search Widget](https://github.com/idankfir/50projects50days/tree/master/hidden search)                        |
 | 05  | [Blurry Loading](https://github.com/idankfir/50projects50days/tree/master/blurry loading)                             |
