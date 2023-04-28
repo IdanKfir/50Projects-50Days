@@ -29,8 +29,8 @@
 | 26  | [Double Vertical Slider](https://github.com/idankfir/50Projects-50Days/tree/master/Double%20Vertical%20Slider)             |
 | 27  | [Toast Notification](https://github.com/idankfir/50Projects-50Days/tree/master/Toast%20Notification)                     |
 | 28  | [Github Profiles](https://github.com/idankfir/50Projects-50Days/tree/master/Github%20Profiles)                           |
-| 29  | [Double Click Heart](https://github.com/idankfir/50Projects-50Days/tree/master/double Click%20Heart)                     |
-| 30  | [Auto Text Effect](https://github.com/idankfir/50Projects-50Days/tree/master/auto Text%20Effect)                         |
+| 29  | [Double Click Heart](https://github.com/idankfir/50Projects-50Days/tree/master/Double%20Click%20Heart)                     |
+| 30  | [Auto Text Effect](https://github.com/idankfir/50Projects-50Days/tree/master/Auto%20Text%20Effect)                         |
 | 31  | [Password Generator](https://github.com/idankfir/50Projects-50Days/tree/master/Password%20Generator)                     |
 | 32  | [Good Cheap Fast](https://github.com/idankfir/50Projects-50Days/tree/master/Good%20Cheap%20Fast)                           |
 | 33  | [Notes App](https://github.com/idankfir/50Projects-50Days/tree/master/NotesApp)                                       |
