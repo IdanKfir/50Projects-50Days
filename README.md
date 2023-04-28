@@ -40,7 +40,7 @@
 | 37  | [Pokedex](https://github.com/idankfir/50projects50days/tree/master/pokedex)                                           |
 | 38  | [Mobile Tab Navigation](https://github.com/idankfir/50projects50days/tree/master/mobile tab navigation)               |
 | 39  | [Password Strength Background](https://github.com/idankfir/50projects50days/tree/master/password strength background) |
-| 40  | [3d Background Boxes](https://github.com/idankfir/50projects50days/tree/master/3d boxes background)                   |
+| 40  | [3d Background Boxes](https://github.com/IdanKfir/50Projects-50Days/tree/main/3D%20Boxes%20Background)                   |
 | 41  | [Verify Account Ui](https://github.com/idankfir/50projects50days/tree/master/verify account ui)                       |
 | 42  | [Live User Filter](https://github.com/idankfir/50projects50days/tree/master/live user filter)                         |
 | 43  | [Feedback Ui Design](https://github.com/idankfir/50projects50days/tree/master/feedback ui design)                     |
