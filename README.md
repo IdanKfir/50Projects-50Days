@@ -1,5 +1,5 @@
 
-|  #  | Project                                                                                                                                                                                           |
+|  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/IdanKfir/50Projects-50Days/tree/main/Expanding%20Cards)                           |
 | 02  | [Progress Steps](https://github.com/IdanKfir/50Projects-50Days/tree/main/Progress%20Steps)                             |
@@ -51,5 +51,4 @@
 | 48  | [Random Image Feed](https://github.com/idankfir/50Projects-50Days/tree/master/random image generator)                  |
 | 49  | [Todo List](https://github.com/idankfir/50Projects-50Days/tree/master/todo list)                                       |
 | 50  | [Insect Catch Game](https://github.com/idankfir/50Projects-50Days/tree/master/insect catch game)                       |
-
 
