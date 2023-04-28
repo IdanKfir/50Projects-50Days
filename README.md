@@ -37,7 +37,7 @@
 | 34  | [Animated Countdown](https://github.com/idankfir/50Projects-50Days/tree/master/Animated%20Countdown)                     |
 | 35  | [Image Carousel](https://github.com/idankfir/50Projects-50Days/tree/master/Image%20Carousel)                             |
 | 36  | [Hoverboard](https://github.com/idankfir/50Projects-50Days/tree/master/Hover%20Board)                                     |
-| 37  | [Pokedex](https://github.com/idankfir/50Projects-50Days/tree/master/Pokedex)                                           |
+| 37  | [Pokedex](https://github.com/idankfir/50Projects-50Days/tree/master/PokeDex)                                           |
 | 38  | [Mobile Tab Navigation](https://github.com/idankfir/50Projects-50Days/tree/master/Mobile%20Tab%20Navigation)               |
 | 39  | [Password Strength Background](https://github.com/idankfir/50Projects-50Days/tree/master/Password%20Strength%20Background) |
 | 40  | [3d Background Boxes](https://github.com/IdanKfir/50Projects-50Days/tree/main/3D%20Boxes%20Background)                   |
