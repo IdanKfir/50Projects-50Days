@@ -26,7 +26,7 @@
 | 23  | [Kinetic Loader](https://github.com/idankfir/50Projects-50Days/tree/master/Kinetic%20Loader)                             |
 | 24  | [Content Placeholder](https://github.com/idankfir/50Projects-50Days/tree/master/Content%20Placeholder)                   |
 | 25  | [Sticky Navbar](https://github.com/idankfir/50Projects-50Days/tree/master/Sticky%20Navigation)                           |
-| 26  | [Double Vertical Slider](https://github.com/idankfir/50Projects-50Days/tree/master/double Vertical%20Slider)             |
+| 26  | [Double Vertical Slider](https://github.com/idankfir/50Projects-50Days/tree/master/Double%20Vertical%20Slider)             |
 | 27  | [Toast Notification](https://github.com/idankfir/50Projects-50Days/tree/master/Toast%20Notification)                     |
 | 28  | [Github Profiles](https://github.com/idankfir/50Projects-50Days/tree/master/Github%20Profiles)                           |
 | 29  | [Double Click Heart](https://github.com/idankfir/50Projects-50Days/tree/master/double Click%20Heart)                     |
